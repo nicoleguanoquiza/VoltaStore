@@ -1,0 +1,16 @@
+[90m= [39m[34;4mApp\Models\Categoria[39;24m {#8754
+    [34mnombre[39m: [32m"[39m[32mElectrónica[39m[32m"[39m,
+    [34mupdated_at[39m: [32m"[39m[32m2026-08-22 03:53:54[39m[32m"[39m,
+    [34mcreated_at[39m: [32m"[39m[32m2026-08-22 03:53:54[39m[32m"[39m,
+    [34mid[39m: [35m2[39m,
+  }
+[90m= [39m[34;4mApp\Models\Producto[39;24m {#8820
+    [34mcategoria_id[39m: [35m1[39m,
+    [34mnombre[39m: [32m"[39m[32mProducto de prueba[39m[32m"[39m,
+    [34mdescripcion[39m: [32m"[39m[32mMi primer producto[39m[32m"[39m,
+    [34mprecio[39m: [35m5.0[39m,
+    [34mstock[39m: [35m10[39m,
+    [34mupdated_at[39m: [32m"[39m[32m2026-08-22 16:07:33[39m[32m"[39m,
+    [34mcreated_at[39m: [32m"[39m[32m2026-08-22 16:07:33[39m[32m"[39m,
+    [34mid[39m: [35m1[39m,
+  }

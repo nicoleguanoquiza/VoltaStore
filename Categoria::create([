@@ -1,0 +1,46 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#8747
+    [34mall[39m: [
+      [34;4mApp\Models\Categoria[39;24m {#8753
+        [34mid[39m: [35m4[39m,
+        [34mnombre[39m: [32m"[39m[32mMaquillaje[39m[32m"[39m,
+        [34mdescripcion[39m: [32m"[39m[32mrubor[39m[32m"[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-08-26 16:22:18[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-08-26 16:22:18[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Categoria[39;24m {#8754
+        [34mid[39m: [35m5[39m,
+        [34mnombre[39m: [32m"[39m[32mBebidas[39m[32m"[39m,
+        [34mdescripcion[39m: [32m"[39m[32mfrutaris[39m[32m"[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-08-26 16:37:51[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-08-26 17:24:08[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Categoria[39;24m {#8751
+        [34mid[39m: [35m6[39m,
+        [34mnombre[39m: [32m"[39m[32mBebidas[39m[32m"[39m,
+        [34mdescripcion[39m: [32m"[39m[32mCoca Cola[39m[32m"[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-08-26 16:43:49[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-09-07 13:43:34[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Categoria[39;24m {#8750
+        [34mid[39m: [35m8[39m,
+        [34mnombre[39m: [32m"[39m[32mTecnologia[39m[32m"[39m,
+        [34mdescripcion[39m: [32m"[39m[32mLaptop[39m[32m"[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-08-26 17:22:59[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-08-26 17:22:59[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Categoria[39;24m {#8749
+        [34mid[39m: [35m10[39m,
+        [34mnombre[39m: [32m"[39m[32mCarros[39m[32m"[39m,
+        [34mdescripcion[39m: [32m"[39m[32mTOYOTA[39m[32m"[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-09-07 13:37:47[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-09-11 19:49:00[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Categoria[39;24m {#8748
+        [34mid[39m: [35m13[39m,
+        [34mnombre[39m: [32m"[39m[32mgfgr[39m[32m"[39m,
+        [34mdescripcion[39m: [32m"[39m[32mrgregre[39m[32m"[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-09-11 21:34:12[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-09-11 21:34:12[39m[32m"[39m,
+      },
+    ],
+  }
